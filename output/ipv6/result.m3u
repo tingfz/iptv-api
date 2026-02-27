@@ -1,0 +1,79 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tingfz/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://10.1.0.78:5180/logo/寰宇新闻.png" group-title="🕘️更新时间",2026-02-27 11:05:39
+http://o11.163189.xyz/stream/live/test/
+#EXTINF:-1 tvg-name="酷哒哒频" tvg-logo="http://10.1.0.78:5180/logo/酷哒哒频.png" group-title="极速频",酷哒哒频
+http://o11.163189.xyz/stream/live/test/
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="http://10.1.0.78:5180/logo/无线翡翠.png" group-title="极速频",无线翡翠
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="无线明珠" tvg-logo="http://10.1.0.78:5180/logo/无线明珠.png" group-title="极速频",无线明珠
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="华丽翡翠" tvg-logo="http://10.1.0.78:5180/logo/华丽翡翠.png" group-title="极速频",华丽翡翠
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="http://10.1.0.78:5180/logo/千禧经典.png" group-title="极速频",千禧经典
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://10.1.0.78:5180/logo/天映经典.png" group-title="极速频",天映经典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="http://10.1.0.78:5180/logo/天映频道.png" group-title="极速频",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-name="爱奇艺台" tvg-logo="http://10.1.0.78:5180/logo/爱奇艺台.png" group-title="极速频",爱奇艺台
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://10.1.0.78:5180/logo/TVB星河.png" group-title="极速频",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="AstroAod" tvg-logo="http://10.1.0.78:5180/logo/AstroAod.png" group-title="极速频",AstroAod
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-name="AstroAec" tvg-logo="http://10.1.0.78:5180/logo/AstroAec.png" group-title="极速频",AstroAec
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://10.1.0.78:5180/logo/TVB Plus.png" group-title="极速频",TVB Plus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://10.1.0.78:5180/logo/龙华电影.png" group-title="极速频",龙华电影
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="http://10.1.0.78:5180/logo/龙华经典.png" group-title="极速频",龙华经典
+http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://10.1.0.78:5180/logo/龙华偶像.png" group-title="极速频",龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="http://10.1.0.78:5180/logo/龙华日韩.png" group-title="极速频",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://10.1.0.78:5180/logo/龙华戏剧.png" group-title="极速频",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://10.1.0.78:5180/logo/凤凰中文.png" group-title="香港频",凤凰中文
+http://cdn6.163189.xyz:80/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://10.1.0.78:5180/logo/凤凰资讯.png" group-title="香港频",凤凰资讯
+http://cdn6.163189.xyz:80/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://10.1.0.78:5180/logo/凤凰香港.png" group-title="香港频",凤凰香港
+http://cdn6.163189.xyz:80/163189/fhhk
+#EXTINF:-1 tvg-name="无线新聞" tvg-logo="http://10.1.0.78:5180/logo/无线新聞.png" group-title="香港频",无线新聞
+http://cdn6.163189.xyz:80/163189/wxxw
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="http://10.1.0.78:5180/logo/无线翡翠.png" group-title="香港频",无线翡翠
+http://cdn6.163189.xyz:80/163189/fct
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="http://10.1.0.78:5180/logo/无线星河.png" group-title="香港频",无线星河
+http://cdn6.163189.xyz:80/163189/tvbxh
+#EXTINF:-1 tvg-name="无线功夫" tvg-logo="http://10.1.0.78:5180/logo/无线功夫.png" group-title="香港频",无线功夫
+http://cdn6.163189.xyz:80/163189/yzwx
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="http://10.1.0.78:5180/logo/澳视澳门.png" group-title="香港频",澳视澳门
+http://cdn6.163189.xyz:80/163189/asam
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="http://10.1.0.78:5180/logo/澳视卫星.png" group-title="香港频",澳视卫星
+http://cdn6.163189.xyz:80/163189/as
+#EXTINF:-1 tvg-name="央视综合" tvg-logo="http://10.1.0.78:5180/logo/央视综合.png" group-title="香港频",央视综合
+http://cdn6.163189.xyz:80/163189/cctv1
+#EXTINF:-1 tvg-name="翡翠台4k" tvg-logo="http://10.1.0.78:5180/logo/翡翠台4k.png" group-title="香港频",翡翠台4k
+http://cdn6.163189.xyz:80/163189/fct4k
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="http://10.1.0.78:5180/logo/Plus综合.png" group-title="香港频",Plus综合
+http://cdn6.163189.xyz:80/163189/tvbp
+#EXTINF:-1 tvg-name="Hoytv77" tvg-logo="http://10.1.0.78:5180/logo/Hoytv77.png" group-title="香港频",Hoytv77
+http://cdn6.163189.xyz:80/163189/hoy
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="http://10.1.0.78:5180/logo/RTHK31.png" group-title="香港频",RTHK31
+http://cdn.163189.xyz/163189/rthk31
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="http://10.1.0.78:5180/logo/RTHK32.png" group-title="香港频",RTHK32
+http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-name="VIUTV粤" tvg-logo="http://10.1.0.78:5180/logo/VIUTV粤.png" group-title="香港频",VIUTV粤
+http://cdn.163189.xyz/163189/viu
+#EXTINF:-1 tvg-name="Now新闻" tvg-logo="http://10.1.0.78:5180/logo/Now新闻.png" group-title="香港频",Now新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="CHU综合" tvg-logo="http://10.1.0.78:5180/logo/CHU综合.png" group-title="香港频",CHU综合
+http://cdn6.163189.xyz:80/163189/chu
+#EXTINF:-1 tvg-name="CH5综合" tvg-logo="http://10.1.0.78:5180/logo/CH5综合.png" group-title="香港频",CH5综合
+http://cdn6.163189.xyz:80/163189/ch5
+#EXTINF:-1 tvg-name="CH8综合" tvg-logo="http://10.1.0.78:5180/logo/CH8综合.png" group-title="香港频",CH8综合
+http://cdn6.163189.xyz:80/163189/ch8
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="http://10.1.0.78:5180/logo/八度空间.png" group-title="香港频",八度空间
+http://cdn6.163189.xyz:80/163189/8tv

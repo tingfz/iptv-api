@@ -1,0 +1,367 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tingfz/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://10.1.0.78:5180/logo/寰宇新闻.png" group-title="🕘️更新时间",2026-02-27 11:05:39
+http://flvforhls-pull-goldendragon.speedws.com:80/live/hyxwt.flv
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://10.1.0.78:5180/logo/寰宇新闻.png" group-title="极速频",寰宇新闻
+http://flvforhls-pull-goldendragon.speedws.com:80/live/hyxwt.flv
+#EXTINF:-1 tvg-name="寰宇台湾" tvg-logo="http://10.1.0.78:5180/logo/寰宇台湾.png" group-title="极速频",寰宇台湾
+http://flvforhls-pull-goldendragon.speedws.com:80/live/hyxwttw.flv
+#EXTINF:-1 tvg-name="NATURE" tvg-logo="http://10.1.0.78:5180/logo/NATURE.png" group-title="极速频",NATURE
+http://flvforhls-pull-goldendragon.speedws.com:80/live/7d5f20760e822b71a37ce8150c051891.flv
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://10.1.0.78:5180/logo/纬来体育.png" group-title="极速频",纬来体育
+https://live12.xiazhix1.top/live/41890675.m3u8
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="http://10.1.0.78:5180/logo/TVB明珠.png" group-title="极速频",TVB明珠
+https://livepull1.longone.com.cn/live/mz-BSiV4DIH3Qioo67O7vqDQtOjpjxkM1vLhWvmbKPO8XQQUTmXADAvbeJN92wj2tvYh9.flv
+#EXTINF:-1 tvg-name="TVB plus" tvg-logo="http://10.1.0.78:5180/logo/TVB plus.png" group-title="极速频",TVB plus
+https://livepull1.longone.com.cn/live/tvb-KGhfThCwqWGSnut5B8jFjcPfxqXfVsEx8kMdF3rC6P31blPC8SoFdchCEgMh3SznKW.flv
+#EXTINF:-1 tvg-name="成龙电影" tvg-logo="http://10.1.0.78:5180/logo/成龙电影.png" group-title="极速频",成龙电影
+http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="正英电影" tvg-logo="http://10.1.0.78:5180/logo/正英电影.png" group-title="极速频",正英电影
+http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="星驰电影" tvg-logo="http://10.1.0.78:5180/logo/星驰电影.png" group-title="极速频",星驰电影
+http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="邵氏电影" tvg-logo="http://10.1.0.78:5180/logo/邵氏电影.png" group-title="极速频",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="http://10.1.0.78:5180/logo/邵氏武侠.png" group-title="极速频",邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="邵氏动作" tvg-logo="http://10.1.0.78:5180/logo/邵氏动作.png" group-title="极速频",邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="邵氏喜剧" tvg-logo="http://10.1.0.78:5180/logo/邵氏喜剧.png" group-title="极速频",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="http://10.1.0.78:5180/logo/凤凰卫视中文台.png" group-title="港推流",凤凰卫视中文台
+http://pull-vivek.speedws.com/live/aaafhzw.flv
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="http://10.1.0.78:5180/logo/凤凰卫视资讯台.png" group-title="港推流",凤凰卫视资讯台
+http://pull-vivek.speedws.com/live/aaafhzx.flv
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="http://10.1.0.78:5180/logo/凤凰卫视香港台.png" group-title="港推流",凤凰卫视香港台
+http://pull-vivek.speedws.com/live/aaafhxg.flv
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://10.1.0.78:5180/logo/TVB翡翠台.png" group-title="港推流",TVB翡翠台
+http://pull-vivek.speedws.com/live/aaajade.flv
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://10.1.0.78:5180/logo/TVB翡翠台.png" group-title="港推流",TVB翡翠台
+http://144.48.185.78:1777/tv/mg2.php?id=翡翠台1
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="http://10.1.0.78:5180/logo/无线新闻台.png" group-title="港推流",无线新闻台
+http://144.48.185.78:1777/tv/mg2.php?id=无线新闻台1
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="http://10.1.0.78:5180/logo/TVB J1.png" group-title="港推流",TVB J1
+http://144.48.185.78:1777/tv/mg2.php?id=J1
+#EXTINF:-1 tvg-name="now新闻" tvg-logo="http://10.1.0.78:5180/logo/now新闻.png" group-title="港推流",now新闻
+http://144.48.185.78:1777/tv/mg2.php?id=now新闻1
+#EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://10.1.0.78:5180/logo/HOY 76.png" group-title="港推流",HOY 76
+http://144.48.185.78:1777/tv/mg2.php?id=HOY76一
+#EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://10.1.0.78:5180/logo/HOY 76.png" group-title="港推流",HOY 76
+http://pull-vivek.speedws.com/live/aaahoy76.flv
+#EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://10.1.0.78:5180/logo/HOY 78.png" group-title="港推流",HOY 78
+http://144.48.185.78:1777/tv/mg2.php?id=HOY78一
+#EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://10.1.0.78:5180/logo/HOY 78.png" group-title="港推流",HOY 78
+http://pull-vivek.speedws.com/live/aaahoy78.flv
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="http://10.1.0.78:5180/logo/TVB娱乐新闻.png" group-title="港推流",TVB娱乐新闻
+http://pull-vivek.speedws.com/live/aaaylxw.flv
+#EXTINF:-1 tvg-name="Mytv千禧经典" tvg-logo="http://10.1.0.78:5180/logo/Mytv千禧经典.png" group-title="港推流",Mytv千禧经典
+http://pull-vivek.speedws.com/live/aaamqxjd.flv
+#EXTINF:-1 tvg-name="Mytv SUPER FREE" tvg-logo="http://10.1.0.78:5180/logo/Mytv SUPER FREE.png" group-title="港推流",Mytv SUPER FREE
+http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+#EXTINF:-1 tvg-name="Mytv华语剧台" tvg-logo="http://10.1.0.78:5180/logo/Mytv华语剧台.png" group-title="港推流",Mytv华语剧台
+http://pull-vivek.speedws.com/live/aaahyjt.flv
+#EXTINF:-1 tvg-name="Mytv亚洲剧台" tvg-logo="http://10.1.0.78:5180/logo/Mytv亚洲剧台.png" group-title="港推流",Mytv亚洲剧台
+http://pull-vivek.speedws.com/live/aaayzjt.flv
+#EXTINF:-1 tvg-name="Mytv黄金华剧台" tvg-logo="http://10.1.0.78:5180/logo/Mytv黄金华剧台.png" group-title="港推流",Mytv黄金华剧台
+http://pull-vivek.speedws.com/live/aaahjhj.flv
+#EXTINF:-1 tvg-name="Mytv黄金翡翠台" tvg-logo="http://10.1.0.78:5180/logo/Mytv黄金翡翠台.png" group-title="港推流",Mytv黄金翡翠台
+http://pull-vivek.speedws.com/live/aaahjfc.flv
+#EXTINF:-1 tvg-name="Mytv戏曲台" tvg-logo="http://10.1.0.78:5180/logo/Mytv戏曲台.png" group-title="港推流",Mytv戏曲台
+http://pull-vivek.speedws.com/live/aaaxqt.flv
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="http://10.1.0.78:5180/logo/天映频道.png" group-title="港推流",天映频道
+http://pull-vivek.speedws.com/live/aaatypd.flv
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://10.1.0.78:5180/logo/天映经典.png" group-title="港推流",天映经典
+http://pull-vivek.speedws.com/live/aaatyjd.flv
+#EXTINF:-1 tvg-name="Mytv跑马台" tvg-logo="http://10.1.0.78:5180/logo/Mytv跑马台.png" group-title="港推流",Mytv跑马台
+http://pull-vivek.speedws.com/live/aaapm18.flv
+#EXTINF:-1 tvg-name="POPC" tvg-logo="http://10.1.0.78:5180/logo/POPC.png" group-title="港推流",POPC
+http://pull-vivek.speedws.com/live/aaapopc.flv
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="http://10.1.0.78:5180/logo/美亚电影.png" group-title="港推流",美亚电影
+http://pull-vivek.speedws.com/live/aaamydy.flv
+#EXTINF:-1 tvg-name="ROCK综艺娱乐" tvg-logo="http://10.1.0.78:5180/logo/ROCK综艺娱乐.png" group-title="港推流",ROCK综艺娱乐
+http://pull-vivek.speedws.com/live/aaarock1.flv
+#EXTINF:-1 tvg-name="中视" tvg-logo="http://10.1.0.78:5180/logo/中视.png" group-title="湾推流",中视
+http://pull-vivek.speedws.com:80/live/ba60524dff98dcbbdaff26100190e91c.flv
+#EXTINF:-1 tvg-name="华视" tvg-logo="http://10.1.0.78:5180/logo/华视.png" group-title="湾推流",华视
+http://pull-vivek.speedws.com:80/live/67797f93ca6dff4f1e3f16bdd7a63290.flv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://10.1.0.78:5180/logo/中天新闻.png" group-title="湾推流",中天新闻
+http://pull-vivek.speedws.com:80/live/0d591663d1aa646963b19bc98f3b20bd.flv
+#EXTINF:-1 tvg-name="中视新聞" tvg-logo="http://10.1.0.78:5180/logo/中视新聞.png" group-title="湾推流",中视新聞
+http://pull-vivek.speedws.com:80/live/e9ee38cbbd953d637cd675dbab59b27a.flv
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://10.1.0.78:5180/logo/寰宇新闻.png" group-title="湾推流",寰宇新闻
+http://pull-vivek.speedws.com/live/cb8d610c3b1ccc8c9778c657bb1d6b62.flv
+#EXTINF:-1 tvg-name="寰宇台湾" tvg-logo="http://10.1.0.78:5180/logo/寰宇台湾.png" group-title="湾推流",寰宇台湾
+http://pull-vivek.speedws.com:80/live/c22afbae5e10cbd8fe69881a47a76d09.flv
+#EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="http://10.1.0.78:5180/logo/寰宇财经台.png" group-title="湾推流",寰宇财经台
+http://pull-vivek.speedws.com:80/live/c5124534d445f8bc66b5d7db59936b33.flv
+#EXTINF:-1 tvg-name="龙华卡通台" tvg-logo="http://10.1.0.78:5180/logo/龙华卡通台.png" group-title="湾推流",龙华卡通台
+http://pull-vivek.speedws.com:80/live/e1946c2976382d5018fb6bff0060468b.flv
+#EXTINF:-1 tvg-name="龙华洋片台" tvg-logo="http://10.1.0.78:5180/logo/龙华洋片台.png" group-title="湾推流",龙华洋片台
+http://pull-vivek.speedws.com:80/live/4aedbc784a445cd14f65a02584af820d.flv
+#EXTINF:-1 tvg-name="龙华电影台" tvg-logo="http://10.1.0.78:5180/logo/龙华电影台.png" group-title="湾推流",龙华电影台
+http://pull-vivek.speedws.com:80/live/3fff627ab1bb286826325a7ed9b1cac7.flv
+#EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="http://10.1.0.78:5180/logo/龙华日韩台.png" group-title="湾推流",龙华日韩台
+http://pull-vivek.speedws.com:80/live/acbd2706232b1ace352d17e18ec423c3.flv
+#EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="http://10.1.0.78:5180/logo/龙华偶像台.png" group-title="湾推流",龙华偶像台
+http://pull-vivek.speedws.com:80/live/7637680a71aa49229dd836ba199157a3.flv
+#EXTINF:-1 tvg-name="龙华戏剧台" tvg-logo="http://10.1.0.78:5180/logo/龙华戏剧台.png" group-title="湾推流",龙华戏剧台
+http://pull-vivek.speedws.com:80/live/cd00889f63ffabe8bf53d5df71d3e921.flv
+#EXTINF:-1 tvg-name="龙华经典台" tvg-logo="http://10.1.0.78:5180/logo/龙华经典台.png" group-title="湾推流",龙华经典台
+http://pull-vivek.speedws.com:80/live/4fdd9c8b99f1f661545cb8b674dd7e7f.flv
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="http://10.1.0.78:5180/logo/TVBS新聞.png" group-title="测试频",TVBS新聞
+http://flvforhls-pull-goldendragon.speedws.com:80/live/TVBSxwt.flv
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="http://10.1.0.78:5180/logo/中视新闻.png" group-title="测试频",中视新闻
+http://flvforhls-pull-goldendragon.speedws.com:80/live/zsxw.flv
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="http://10.1.0.78:5180/logo/三立新闻.png" group-title="测试频",三立新闻
+http://flvforhls-pull-goldendragon.speedws.com:80/live/slxw.flv
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="http://10.1.0.78:5180/logo/华视新闻.png" group-title="测试频",华视新闻
+http://flvforhls-pull-goldendragon.speedws.com:80/live/hsxw.flv
+#EXTINF:-1 tvg-name="华视频道" tvg-logo="http://10.1.0.78:5180/logo/华视频道.png" group-title="测试频",华视频道
+http://flvforhls-pull-goldendragon.speedws.com:80/live/hs.flv
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="http://10.1.0.78:5180/logo/民視新聞.png" group-title="测试频",民視新聞
+http://flvforhls-pull-goldendragon.speedws.com:80/live/msxwt.flv
+#EXTINF:-1 tvg-name="民視綜藝" tvg-logo="http://10.1.0.78:5180/logo/民視綜藝.png" group-title="测试频",民視綜藝
+http://flvforhls-pull-goldendragon.speedws.com:80/live/mszyt.flv
+#EXTINF:-1 tvg-name="民視台灣" tvg-logo="http://10.1.0.78:5180/logo/民視台灣.png" group-title="测试频",民視台灣
+http://flvforhls-pull-goldendragon.speedws.com:80/live/mstwt.flv
+#EXTINF:-1 tvg-name="民視第一" tvg-logo="http://10.1.0.78:5180/logo/民視第一.png" group-title="测试频",民視第一
+http://flvforhls-pull-goldendragon.speedws.com:80/live/msdyt.flv
+#EXTINF:-1 tvg-name="民視频道" tvg-logo="http://10.1.0.78:5180/logo/民視频道.png" group-title="测试频",民視频道
+http://flvforhls-pull-goldendragon.speedws.com:80/live/ms.flv
+#EXTINF:-1 tvg-name="東森財經" tvg-logo="http://10.1.0.78:5180/logo/東森財經.png" group-title="测试频",東森財經
+http://flvforhls-pull-goldendragon.speedws.com:80/live/dscjxw.flv
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="http://10.1.0.78:5180/logo/東森新聞.png" group-title="测试频",東森新聞
+http://flvforhls-pull-goldendragon.speedws.com:80/live/dsxw.flv
+#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="http://10.1.0.78:5180/logo/Now华剧台.png" group-title="测试频",Now华剧台
+http://rihou.cc:555/tv/hktv%2Ftb19nowhj
+#EXTINF:-1 tvg-name="HUB如意台" tvg-logo="http://10.1.0.78:5180/logo/HUB如意台.png" group-title="测试频",HUB如意台
+http://rihou.cc:555/tv/hktv%2Ftbbhubjy
+#EXTINF:-1 tvg-name="TVB功夫(国)" tvg-logo="http://10.1.0.78:5180/logo/TVB功夫(国).png" group-title="测试频",TVB功夫(国)
+http://rihou.cc:555/tv/hktv%2Ftb19tvbgf
+#EXTINF:-1 tvg-name="龙祥时代台" tvg-logo="http://10.1.0.78:5180/logo/龙祥时代台.png" group-title="测试频",龙祥时代台
+http://rihou.cc:555/tv/hktv%2Ftbbggh0818
+#EXTINF:-1 tvg-name="美亚电影(台湾)" tvg-logo="http://10.1.0.78:5180/logo/美亚电影(台湾).png" group-title="测试频",美亚电影(台湾)
+http://rihou.cc:555/tv/hktv%2Ftb19twmy
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.78:5180/logo/CCTV1.png" group-title="央卫推",CCTV1
+http://223.111.150.99:2005/ysws.php?id=CCTV1
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://10.1.0.78:5180/logo/CCTV3.png" group-title="央卫推",CCTV3
+http://223.111.150.99:2005/ysws.php?id=CCTV3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://10.1.0.78:5180/logo/CCTV4.png" group-title="央卫推",CCTV4
+http://223.111.150.99:2005/ysws.php?id=CCTV4
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://10.1.0.78:5180/logo/CCTV6.png" group-title="央卫推",CCTV6
+http://223.111.150.99:2005/ysws.php?id=CCTV6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://10.1.0.78:5180/logo/CCTV7.png" group-title="央卫推",CCTV7
+http://223.111.150.99:2005/ysws.php?id=CCTV7
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://10.1.0.78:5180/logo/CCTV10.png" group-title="央卫推",CCTV10
+http://223.111.150.99:2005/ysws.php?id=CCTV10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://10.1.0.78:5180/logo/CCTV11.png" group-title="央卫推",CCTV11
+http://223.111.150.99:2005/ysws.php?id=CCTV11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://10.1.0.78:5180/logo/CCTV12.png" group-title="央卫推",CCTV12
+http://223.111.150.99:2005/ysws.php?id=CCTV12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://10.1.0.78:5180/logo/CCTV13.png" group-title="央卫推",CCTV13
+http://223.111.150.99:2005/ysws.php?id=CCTV13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://10.1.0.78:5180/logo/CCTV14.png" group-title="央卫推",CCTV14
+http://223.111.150.99:2005/ysws.php?id=CCTV14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://10.1.0.78:5180/logo/CCTV15.png" group-title="央卫推",CCTV15
+http://223.111.150.99:2005/ysws.php?id=CCTV15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://10.1.0.78:5180/logo/CCTV16.png" group-title="央卫推",CCTV16
+http://223.111.150.99:2005/ysws.php?id=CCTV16
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://10.1.0.78:5180/logo/CCTV4K.png" group-title="央卫推",CCTV4K
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV4K超高清
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="http://10.1.0.78:5180/logo/CCTV8K.png" group-title="央卫推",CCTV8K
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV8K超高清
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="http://10.1.0.78:5180/logo/第一剧场.png" group-title="央卫推",第一剧场
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV第一剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://10.1.0.78:5180/logo/风云剧场.png" group-title="央卫推",风云剧场
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV风云剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="http://10.1.0.78:5180/logo/怀旧剧场.png" group-title="央卫推",怀旧剧场
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV怀旧剧场
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://10.1.0.78:5180/logo/风云音乐.png" group-title="央卫推",风云音乐
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV风云音乐
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://10.1.0.78:5180/logo/风云足球.png" group-title="央卫推",风云足球
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV风云足球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="http://10.1.0.78:5180/logo/央视台球.png" group-title="央卫推",央视台球
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV央视台球
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="http://10.1.0.78:5180/logo/电视指南.png" group-title="央卫推",电视指南
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV电视指南
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="http://10.1.0.78:5180/logo/兵器科技.png" group-title="央卫推",兵器科技
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV兵器科技
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="http://10.1.0.78:5180/logo/卫生健康.png" group-title="央卫推",卫生健康
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV卫生健康
+#EXTINF:-1 tvg-name="央视精品" tvg-logo="http://10.1.0.78:5180/logo/央视精品.png" group-title="央卫推",央视精品
+http://144.48.185.78:1777/tv/mg1.php?id=CCTV央视文化精品
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://10.1.0.78:5180/logo/北京卫视.png" group-title="央卫推",北京卫视
+http://223.111.150.99:2005/ysws.php?id=北京卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://10.1.0.78:5180/logo/东方卫视.png" group-title="央卫推",东方卫视
+http://223.111.150.99:2005/ysws.php?id=东方卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://10.1.0.78:5180/logo/广东卫视.png" group-title="央卫推",广东卫视
+http://223.111.150.99:2005/ysws.php?id=广东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://10.1.0.78:5180/logo/山东卫视.png" group-title="央卫推",山东卫视
+http://223.111.150.99:2005/ysws.php?id=山东卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://10.1.0.78:5180/logo/湖北卫视.png" group-title="央卫推",湖北卫视
+http://223.111.150.99:2005/ysws.php?id=湖北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://10.1.0.78:5180/logo/河北卫视.png" group-title="央卫推",河北卫视
+http://223.111.150.99:2005/ysws.php?id=河北卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://10.1.0.78:5180/logo/河南卫视.png" group-title="央卫推",河南卫视
+http://223.111.150.99:2005/ysws.php?id=河南卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://10.1.0.78:5180/logo/重庆卫视.png" group-title="央卫推",重庆卫视
+http://223.111.150.99:2005/ysws.php?id=重庆卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://10.1.0.78:5180/logo/安徽卫视.png" group-title="央卫推",安徽卫视
+http://223.111.150.99:2005/ysws.php?id=安徽卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://10.1.0.78:5180/logo/东南卫视.png" group-title="央卫推",东南卫视
+http://223.111.150.99:2005/ysws.php?id=东南卫视
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://10.1.0.78:5180/logo/厦门卫视.png" group-title="央卫推",厦门卫视
+http://223.111.150.99:2005/ysws.php?id=厦门卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://10.1.0.78:5180/logo/四川卫视.png" group-title="央卫推",四川卫视
+http://223.111.150.99:2005/ysws.php?id=四川卫视
+#EXTINF:-1 tvg-name="黑龙江台" tvg-logo="http://10.1.0.78:5180/logo/黑龙江台.png" group-title="央卫推",黑龙江台
+http://223.111.150.99:2005/ysws.php?id=黑龙江卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://10.1.0.78:5180/logo/吉林卫视.png" group-title="央卫推",吉林卫视
+http://223.111.150.99:2005/ysws.php?id=吉林卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://10.1.0.78:5180/logo/云南卫视.png" group-title="央卫推",云南卫视
+http://223.111.150.99:2005/ysws.php?id=云南卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://10.1.0.78:5180/logo/贵州卫视.png" group-title="央卫推",贵州卫视
+http://223.111.150.99:2005/ysws.php?id=贵州卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://10.1.0.78:5180/logo/广西卫视.png" group-title="央卫推",广西卫视
+http://223.111.150.99:2005/ysws.php?id=广西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://10.1.0.78:5180/logo/江西卫视.png" group-title="央卫推",江西卫视
+http://223.111.150.99:2005/ysws.php?id=江西卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://10.1.0.78:5180/logo/海南卫视.png" group-title="央卫推",海南卫视
+http://223.111.150.99:2005/ysws.php?id=海南卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://10.1.0.78:5180/logo/三沙卫视.png" group-title="央卫推",三沙卫视
+http://223.111.150.99:2005/ysws.php?id=三沙卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://10.1.0.78:5180/logo/甘肃卫视.png" group-title="央卫推",甘肃卫视
+http://223.111.150.99:2005/ysws.php?id=甘肃卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://10.1.0.78:5180/logo/青海卫视.png" group-title="央卫推",青海卫视
+http://223.111.150.99:2005/ysws.php?id=青海卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://10.1.0.78:5180/logo/宁夏卫视.png" group-title="央卫推",宁夏卫视
+http://223.111.150.99:2005/ysws.php?id=宁夏卫视
+#EXTINF:-1 tvg-name="内蒙古台" tvg-logo="http://10.1.0.78:5180/logo/内蒙古台.png" group-title="央卫推",内蒙古台
+http://223.111.150.99:2005/ysws.php?id=内蒙古卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://10.1.0.78:5180/logo/新疆卫视.png" group-title="央卫推",新疆卫视
+http://223.111.150.99:2005/ysws.php?id=新疆卫视
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://10.1.0.78:5180/logo/西藏卫视.png" group-title="央卫推",西藏卫视
+http://223.111.150.99:2005/ysws.php?id=西藏卫视
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://10.1.0.78:5180/logo/兵团卫视.png" group-title="央卫推",兵团卫视
+http://223.111.150.99:2005/ysws.php?id=兵团卫视
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.78:5180/logo/CCTV1.png" group-title="央视频",CCTV1
+http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://10.1.0.78:5180/logo/CCTV2.png" group-title="央视频",CCTV2
+http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://10.1.0.78:5180/logo/CCTV3.png" group-title="央视频",CCTV3
+http://43.156.8.127:5050/ysp?id=2024068501&pid=600001801&q=fhd
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://10.1.0.78:5180/logo/CCTV6.png" group-title="央视频",CCTV6
+http://43.156.8.127:5050/ysp?id=2013693901&pid=600108442&q=fhd
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://10.1.0.78:5180/logo/CCTV7.png" group-title="央视频",CCTV7
+http://43.156.8.127:5050/ysp?id=2024072001&pid=600004092&q=fhd
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://10.1.0.78:5180/logo/CCTV9.png" group-title="央视频",CCTV9
+http://43.156.8.127:5050/ysp?id=2024078601&pid=600004078&q=fhd
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://10.1.0.78:5180/logo/CCTV11.png" group-title="央视频",CCTV11
+http://43.156.8.127:5050/ysp?id=2027248701&pid=600001806&q=fhd
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://10.1.0.78:5180/logo/CCTV12.png" group-title="央视频",CCTV12
+http://43.156.8.127:5050/ysp?id=2027248801&pid=600001807&q=fhd
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://10.1.0.78:5180/logo/CCTV14.png" group-title="央视频",CCTV14
+http://43.156.8.127:5050/ysp?id=2027248901&pid=600001809&q=fhd
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://10.1.0.78:5180/logo/CCTV15.png" group-title="央视频",CCTV15
+http://43.156.8.127:5050/ysp?id=2027249001&pid=600001815&q=fhd
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://10.1.0.78:5180/logo/CCTV17.png" group-title="央视频",CCTV17
+http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://10.1.0.78:5180/logo/CCTV4K.png" group-title="央视频",CCTV4K
+http://43.156.8.127:5050/ysp?id=2027249501&pid=600002264&q=fhd
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="http://10.1.0.78:5180/logo/CCTV8K.png" group-title="央视频",CCTV8K
+http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://10.1.0.78:5180/logo/CGTN.png" group-title="央视频",CGTN
+http://43.156.8.127:5050/ysp?id=2024181701&pid=600014550&q=fhd
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="http://10.1.0.78:5180/logo/CGTN法语.png" group-title="央视频",CGTN法语
+http://43.156.8.127:5050/ysp?id=2024181801&pid=600084704&q=fhd
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="http://10.1.0.78:5180/logo/CGTN俄语.png" group-title="央视频",CGTN俄语
+http://43.156.8.127:5050/ysp?id=2024181901&pid=600084758&q=fhd
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="http://10.1.0.78:5180/logo/CGTN阿拉伯语.png" group-title="央视频",CGTN阿拉伯语
+http://43.156.8.127:5050/ysp?id=2024182001&pid=600084782&q=fhd
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="http://10.1.0.78:5180/logo/CGTN西班牙语.png" group-title="央视频",CGTN西班牙语
+http://43.156.8.127:5050/ysp?id=2024182101&pid=600084744&q=fhd
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="http://10.1.0.78:5180/logo/CGTN纪录.png" group-title="央视频",CGTN纪录
+http://43.156.8.127:5050/ysp?id=2024182301&pid=600084781&q=fhd
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="http://10.1.0.78:5180/logo/第一剧场.png" group-title="央视频",第一剧场
+http://43.156.8.127:5050/ysp?id=2026874203&pid=600099655&q=fhd
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://10.1.0.78:5180/logo/风云剧场.png" group-title="央视频",风云剧场
+http://43.156.8.127:5050/ysp?id=2025637103&pid=600099658&q=fhd
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="http://10.1.0.78:5180/logo/怀旧剧场.png" group-title="央视频",怀旧剧场
+http://43.156.8.127:5050/ysp?id=2026874303&pid=600099620&q=fhd
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://10.1.0.78:5180/logo/北京卫视.png" group-title="央视频",北京卫视
+http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://10.1.0.78:5180/logo/东方卫视.png" group-title="央视频",东方卫视
+http://43.156.8.127:5050/ysp?id=2024054503&pid=600002483&q=fhd
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://10.1.0.78:5180/logo/江苏卫视.png" group-title="央视频",江苏卫视
+http://43.156.8.127:5050/ysp?id=2024171103&pid=600002521&q=fhd
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://10.1.0.78:5180/logo/浙江卫视.png" group-title="央视频",浙江卫视
+http://43.156.8.127:5050/ysp?id=2024054703&pid=600002520&q=fhd
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://10.1.0.78:5180/logo/湖南卫视.png" group-title="央视频",湖南卫视
+http://43.156.8.127:5050/ysp?id=2024054803&pid=600002475&q=fhd
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://10.1.0.78:5180/logo/湖北卫视.png" group-title="央视频",湖北卫视
+http://43.156.8.127:5050/ysp?id=2024171203&pid=600002508&q=fhd
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://10.1.0.78:5180/logo/广东卫视.png" group-title="央视频",广东卫视
+http://43.156.8.127:5050/ysp?id=2024060903&pid=600002485&q=fhd
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://10.1.0.78:5180/logo/广西卫视.png" group-title="央视频",广西卫视
+http://43.156.8.127:5050/ysp?id=2024060703&pid=600002509&q=fhd
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://10.1.0.78:5180/logo/海南卫视.png" group-title="央视频",海南卫视
+http://43.156.8.127:5050/ysp?id=2024055603&pid=600002506&q=fhd
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://10.1.0.78:5180/logo/重庆卫视.png" group-title="央视频",重庆卫视
+http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="http://10.1.0.78:5180/logo/中国教育1台.png" group-title="央视频",中国教育1台
+http://43.156.8.127:5050/ysp?id=2022823801&pid=600171827&q=fhd
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://10.1.0.78:5180/logo/深圳卫视.png" group-title="央视频",深圳卫视
+http://43.156.8.127:5050/ysp?id=2024061303&pid=600002481&q=fhd
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://10.1.0.78:5180/logo/四川卫视.png" group-title="央视频",四川卫视
+http://43.156.8.127:5050/ysp?id=2024061403&pid=600002516&q=fhd
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://10.1.0.78:5180/logo/东南卫视.png" group-title="央视频",东南卫视
+http://43.156.8.127:5050/ysp?id=2024061503&pid=600002484&q=fhd
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://10.1.0.78:5180/logo/贵州卫视.png" group-title="央视频",贵州卫视
+http://43.156.8.127:5050/ysp?id=2024061603&pid=600002490&q=fhd
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://10.1.0.78:5180/logo/江西卫视.png" group-title="央视频",江西卫视
+http://43.156.8.127:5050/ysp?id=2024061703&pid=600002503&q=fhd
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://10.1.0.78:5180/logo/辽宁卫视.png" group-title="央视频",辽宁卫视
+http://43.156.8.127:5050/ysp?id=2024171303&pid=600002505&q=fhd
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://10.1.0.78:5180/logo/安徽卫视.png" group-title="央视频",安徽卫视
+http://43.156.8.127:5050/ysp?id=2024171403&pid=600002532&q=fhd
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://10.1.0.78:5180/logo/河北卫视.png" group-title="央视频",河北卫视
+http://43.156.8.127:5050/ysp?id=2024171503&pid=600002493&q=fhd
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://10.1.0.78:5180/logo/天津卫视.png" group-title="央视频",天津卫视
+http://43.156.8.127:5050/ysp?id=2019927003&pid=600152137&q=fhd
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://10.1.0.78:5180/logo/内蒙古卫视.png" group-title="央视频",内蒙古卫视
+http://43.156.8.127:5050/ysp?id=2025561203&pid=600190401&q=fhd
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://10.1.0.78:5180/logo/甘肃卫视.png" group-title="央视频",甘肃卫视
+http://43.156.8.127:5050/ysp?id=2025561703&pid=600190408&q=fhd
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://10.1.0.78:5180/logo/宁夏卫视.png" group-title="央视频",宁夏卫视
+http://43.156.8.127:5050/ysp?id=2025608503&pid=600190737&q=fhd
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://10.1.0.78:5180/logo/山西卫视.png" group-title="央视频",山西卫视
+http://43.156.8.127:5050/ysp?id=2025560803&pid=600190407&q=fhd
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://10.1.0.78:5180/logo/云南卫视.png" group-title="央视频",云南卫视
+http://43.156.8.127:5050/ysp?id=2025561303&pid=600190402&q=fhd
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://10.1.0.78:5180/logo/吉林卫视.png" group-title="央视频",吉林卫视
+http://43.156.8.127:5050/ysp?id=2025561503&pid=600190405&q=fhd
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://10.1.0.78:5180/logo/青海卫视.png" group-title="央视频",青海卫视
+http://43.156.8.127:5050/ysp?id=2025559103&pid=600190406&q=fhd
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://10.1.0.78:5180/logo/西藏卫视.png" group-title="央视频",西藏卫视
+http://43.156.8.127:5050/ysp?id=2025558003&pid=600190403&q=fhd
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://10.1.0.78:5180/logo/新疆卫视.png" group-title="央视频",新疆卫视
+http://43.156.8.127:5050/ysp?id=2019927403&pid=600152138&q=fhd
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://10.1.0.78:5180/logo/兵团卫视.png" group-title="央视频",兵团卫视
+http://43.156.8.127:5050/ysp?id=2025990501&pid=600193252&q=fhd
+#EXTINF:-1 tvg-name="惊艳电影" tvg-logo="http://10.1.0.78:5180/logo/惊艳电影.png" group-title="密花园_6688",惊艳电影
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="潘朵拉台" tvg-logo="http://10.1.0.78:5180/logo/潘朵拉台.png" group-title="密花园_6688",潘朵拉台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="松视1台" tvg-logo="http://10.1.0.78:5180/logo/松视1台.png" group-title="密花园_6688",松视1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松视2台" tvg-logo="http://10.1.0.78:5180/logo/松视2台.png" group-title="密花园_6688",松视2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-name="松视3台" tvg-logo="http://10.1.0.78:5180/logo/松视3台.png" group-title="密花园_6688",松视3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 tvg-name="松視1台" tvg-logo="http://10.1.0.78:5180/logo/松視1台.png" group-title="密花园_6688",松視1台
+http://live-broadcast-sh-service.vcinema.cn:80/live/d27029685959b9e2550bc4fcf772f569.flv
+#EXTINF:-1 tvg-name="松視2台" tvg-logo="http://10.1.0.78:5180/logo/松視2台.png" group-title="密花园_6688",松視2台
+http://live-broadcast-sh-service.vcinema.cn:80/live/665a6966624f094c0e170cfbb4e6e362.flv
+#EXTINF:-1 tvg-name="潘多拉台" tvg-logo="http://10.1.0.78:5180/logo/潘多拉台.png" group-title="密花园_6688",潘多拉台
+http://live-broadcast-sh-service.vcinema.cn:80/:80live/cadce74683afa292aaeedd71addb6ea1.flv
+#EXTINF:-1 tvg-name="极限电影" tvg-logo="http://10.1.0.78:5180/logo/极限电影.png" group-title="密花园_6688",极限电影
+http://live-broadcast-sh-service.vcinema.cn:80/live/370d3fe5fe80ef97c5b377157f6cab9a.flv
